@@ -902,31 +902,7 @@ curl -X POST http://localhost:8080/api/chat \\
 
 - **Controller**: Simple REST endpoint for chatbot requests.
 
-If you want, I can now make a **full working Spring Boot + AI chatbot
-repo** with:
 
-- ✅ JWT Auth
-
-- ✅ Bucket4j distributed (Redis)
-
-- ✅ LangChain4j with LLaMA RAG example
-
-- ✅ WebSocket streaming responses
-
-That would give you a production-grade starting point.\
-Do you want me to build that next?
-
-**You said:**
-
-✅ JWT Auth ✅ Bucket4j distributed (Redis) ✅ LangChain4j with LLaMA
-RAG example ✅ WebSocket streaming responses
-
-**ChatGPT said:**
-
-Perfect 👍 --- that's basically a **production-grade Spring Boot AI
-chatbot stack**.
-
-Here's how we'll structure it:
 
 **1️⃣ Project Structure**
 
