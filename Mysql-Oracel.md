@@ -208,27 +208,6 @@ triggers.
   Trigger Timing   BEFORE/AFTER             BEFORE/AFTER/INSTEAD OF
   -----------------------------------------------------------------------
 
-Would you like this content as:
-
-- ✅ A **PDF**
-
-- ✅ A **GitHub Markdown Repo**
-
-- ✅ A **Quiz Format** (MCQs)
-
-- ✅ A **Comparison Diagram (PNG)**
-
-Let me know and I'll generate it for you.
-
-**You said:**
-
-A Quiz Format (MCQs)
-
-**ChatGPT said:**
-
-Here is a **MySQL vs Oracle Quiz (MCQ format)** -- ideal for interviews
-and self-assessment. It includes 25 **multiple-choice questions** with
-**answers + explanations** where necessary.
 
 **✅ MySQL vs Oracle: MCQ Quiz**
 
@@ -441,29 +420,6 @@ B. Use VIEW\
 C. Use UNIQUE constraint\
 D. Use SEQUENCE\
 👉 **Answer:** C
-
-Would you like the above as:
-
-- ✅ Interactive **Web-based Quiz App** (React/HTML UI)?
-
-- ✅ Downloadable **PDF + Answer Key**?
-
-- ✅ A **GitHub Repo** with questions in Markdown format?
-
-Let me know your preferred format and I'll generate it.
-
-**You said:**
-
-Queries also
-
-**ChatGPT said:**
-
-Great! Below is a **combo pack** of:
-
-✅ MySQL vs Oracle **Interview MCQs**\
-✅ Corresponding **SQL Queries/Examples** for both **MySQL and Oracle**
-
-**✅ MySQL vs Oracle: Quiz + Real SQL Queries**
 
 **🔸 Q1. How do you fetch the top 5 highest salaries from an employee
 table?**
